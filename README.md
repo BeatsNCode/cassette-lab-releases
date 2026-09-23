@@ -15,7 +15,8 @@ This link always points at the latest release. Older versions and release notes 
 ### Requirements
 
 - macOS 12 Monterey or later
-- A Cassette Lab account (create one in the app or at [cassettelab.com](https://cassettelab.com))
+
+No account needed. Your projects stay on your Mac.
 
 Windows is planned but not available yet.
 
